@@ -1,15 +1,14 @@
 - Hi, I’m @umangsadhwani
-- I’m interested in Web development .
-- I’m currently learning ReactJS , NodeJS  .
-- I’m looking to collaborate on Web development Projects . 
+- I'm currently a Masters student in the field of Computer Science and Engineering at IISc Bangalore
+- I’m interested in AIML , Web Development . 
 - My linkedin Profile is www.linkedin.com/in/umang-sadhwani-7a81181b2
 
-Project i am currently working on :- 
---> https://umang-comfy-sloth-project.netlify.app/
+
 
 Below i have given the list of various  web development projects that i have done so far :- 
 
 React JS Projects
+--> https://umang-comfy-sloth-project.netlify.app/
 
 -> https://cocktail-umang-react.netlify.app/
 
